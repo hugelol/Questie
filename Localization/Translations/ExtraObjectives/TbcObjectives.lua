@@ -100,7 +100,7 @@ local tbcObjectiveLocales = {
     },
     ["Summon Hauteur using the Ritual Torch"] = { -- 9467
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Beschwöre Hauteur indem du die Ritualfackel benutzt",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -112,7 +112,7 @@ local tbcObjectiveLocales = {
     },
     ["Gather a Fel Ember using Grand Warlock's Amulet"] = { -- 9494
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Sammle Teufelsglut indem du das Amulett des Großhexenmeisters benutzt",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -124,7 +124,7 @@ local tbcObjectiveLocales = {
     },
     ["Destroy the barrel using the Skin of Purest Water"] = { -- 9508
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Zerstöre das Fass indem du den Schlauch mit reinstem Wasser verwendest",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -136,7 +136,7 @@ local tbcObjectiveLocales = {
     },
     ["Kill Bristlelimb Furbolgs to lure High Chief Bristlelimb"] = { -- 9667
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Töte Sichelklauenfurbolgs um den Oberhäuptling der Sichelklauen anzulocken",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -160,7 +160,7 @@ local tbcObjectiveLocales = {
     },
     ["Defile the Statue of Queen Azshara"] = { -- 9683
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Entweihe die Statue von Königin Azshara",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -172,7 +172,7 @@ local tbcObjectiveLocales = {
     },
     ["Place the Bundle of Dragon Bones at the Ever-burning Pyre"] = { -- 9689
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Platziere ein Bündel Drachenknochen auf dem ewig brennenen Scheiterhaufen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -184,7 +184,7 @@ local tbcObjectiveLocales = {
     },
     ["Call for help from Trackers of the Hand"] = { -- 9711
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Rufe die Fährtenlesers der Hand zur hilfe",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -244,7 +244,7 @@ local tbcObjectiveLocales = {
     },
     ["Make smoke signals"] = { -- 9932
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Mache Rauchzeichen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -256,7 +256,7 @@ local tbcObjectiveLocales = {
     },
     ["Place the carcass"] = { -- 10035
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Platziere die Karkassen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -268,7 +268,7 @@ local tbcObjectiveLocales = {
     },
     ["Jump!"] = { -- 10111
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Spring",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -304,7 +304,7 @@ local tbcObjectiveLocales = {
     },
     ["Speak with Wing Commander Brack"] = { -- 10129 & 10162
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Sprich mit Schwadronskommandant Brack",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -340,7 +340,7 @@ local tbcObjectiveLocales = {
     },
     ["Use the Elemental Power Extractor before killing it"] = { -- 10226
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Benutze den Elementarenergieextraktor befor du ihn zerstörst",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -352,7 +352,7 @@ local tbcObjectiveLocales = {
     },
     ["Activate the rune"] = { -- 10240
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Aktiviere die Rune",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -400,7 +400,7 @@ local tbcObjectiveLocales = {
     },
     ["Communicate with Wind Trader Marid"] = { -- 10270
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Kommuniziere mit Windhändler Marid",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -412,7 +412,7 @@ local tbcObjectiveLocales = {
     },
     ["Communicate with Commander Ameer"] = { -- 10384
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Sprich mit Kommandant Ameer",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -424,7 +424,7 @@ local tbcObjectiveLocales = {
     },
     ["Take the portal to Socrethar's Seat"] = { -- 10409 10507
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Nimm das Portal zu Socrethars Sitz",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -436,7 +436,7 @@ local tbcObjectiveLocales = {
     },
     ["When at Socrethar's Seat, ask for his help against Socrethar"] = { -- 10409
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Wenn du an Socrethars Sitz angekommen bist frage nach Hilfe gegen Socrethar",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -448,7 +448,7 @@ local tbcObjectiveLocales = {
     },
     ["Open a portal to Socrethar's Seat with Socrethar's Teleporting Stone"] = { -- 10409 10507
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Öffne ein Portal zu Socrethar's Sitz mit Socrethars's Teleportationsstein",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -460,7 +460,7 @@ local tbcObjectiveLocales = {
     },
     ["After defeating Socrethar, you can open a portal back"] = { -- 10409 10507
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Nachdem du Socrethar besiegt hast  kannst du das Poral zurück öffnen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1852,7 +1852,7 @@ local tbcObjectiveLocales = {
     },
     ["Summon one of Ahune's lieutenants"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Beschwöre einen von Ahune's Lieutenants",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1864,7 +1864,7 @@ local tbcObjectiveLocales = {
     },
     ["Summon one of Ahune's templars"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Beschwöre einen von Ahune's Templern",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1876,7 +1876,7 @@ local tbcObjectiveLocales = {
     },
     ["Start the event"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Starte das Event",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1888,7 +1888,7 @@ local tbcObjectiveLocales = {
     },
     ["Open it"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Öffne es",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
