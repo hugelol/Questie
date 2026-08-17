@@ -196,7 +196,7 @@ local seasonObjectiveLocals = {
     },
     ["Talk to the Injured Gnome"] = { -- 82022
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Sprich mit den verletzten Gnomen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -316,7 +316,7 @@ local seasonObjectiveLocals = {
     },
     ["Find Caius Blackwood"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Finde Caius Schwarzholz",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = "Trouver Caius Blackwood",
