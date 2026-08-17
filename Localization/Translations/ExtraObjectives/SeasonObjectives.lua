@@ -16,7 +16,7 @@ local seasonObjectiveLocals = {
     },
     ["Drink the Squall-breakers Potion and talk to Nyse."] = { -- 79366
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Trinke den Böenbrechertrank und sprich mit Nyse",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -52,7 +52,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Alyssian Windcaller to the Dream Portal"] = { -- 81783
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Alyssia Windrufer zum Traumportal",
         ["esES"] = "Escolta a Alyssian Clamavientos al portal al Sueño Esmeralda.",
         ["esMX"] = "Escolta a Alyssian Clamavientos al portal del Sueño Esmeralda.",
         ["frFR"] = "Escortez Imploratrice céleste Alyssian jusqu'au portail du Rêve d'émeraude.",
@@ -64,7 +64,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Doran Dreambough to the Dream Portal"] = { -- 81784
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Doran Traumzweig zum Traumportal",
         ["esES"] = "Escolta a Doran Ramaoniria al portal al Sueño Esmeralda.",
         ["esMX"] = "Escolta a Doran Onirirrama al portal del Sueño Esmeralda.",
         ["frFR"] = "Escortez Doran Branchonirique jusqu'au portail du Rêve d'émeraude.",
@@ -76,7 +76,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Maseara Autumnmoon to the Dream Portal"] = { -- 81785
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Maseara Herbstmond zum Traumportal",
         ["esES"] = "Escolta a Maseara Lunaotoñal al portal al Sueño Esmeralda.",
         ["esMX"] = "Escolta a Maseara Lunaotoño al portal del Sueño Esmeralda.",
         ["frFR"] = "Escortez Maseara Lune-d'Automne jusqu'au portail du Rêve d'émeraude.",
@@ -88,7 +88,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Kroll Mountainshade to the Dream Portal"] = { -- 81745
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Kroll Bergschatten zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -100,7 +100,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Alara Grovemender to the Dream Portal"] = { -- 81746
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Alara Hainheiler",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -112,7 +112,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Elenora Marshwalker to the Dream Portal"] = { -- 81747
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Elenora Maschenläufer zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -124,7 +124,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Mellias Earthtender to the Dream Portal"] = { -- 81872
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Mellias Erdpfleger zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -136,7 +136,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Nerene Brooksinger to the Dream Portal"] = { -- 81873
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Nerene Bachsänger zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -148,7 +148,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Jamniss Treemender to the Dream Portal"] = { -- 81874
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Jamniss Baumheiler zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -160,7 +160,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Elianar Shadowdrinker to the Dream Portal"] = { -- 81850
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Elianar Schattentrinker zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -172,7 +172,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Serlina Starbright to the Dream Portal"] = { -- 81851
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Serlina Sternenhell zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -184,7 +184,7 @@ local seasonObjectiveLocals = {
     },
     ["Escort Veanna Cloudsleeper to the Dream Portal"] = { -- 81852
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Eskortiere Veanna Wolkenschläfer zum Traumportal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
