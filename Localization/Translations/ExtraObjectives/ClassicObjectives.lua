@@ -796,7 +796,7 @@ local classicObjectiveLocales = {
     },
     ["Place the Termite Barrel"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Platziere das Termitenfass",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -808,7 +808,7 @@ local classicObjectiveLocales = {
     },
     ["Use it"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Benutze es",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -832,7 +832,7 @@ local classicObjectiveLocales = {
     },
     ["Use it when Ranshalla tells you to"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Benutze es wenn Ranshalla es dir sagt",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -844,7 +844,7 @@ local classicObjectiveLocales = {
     },
     ["Ask for the illusion"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Frage nach der Illusion",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -856,7 +856,7 @@ local classicObjectiveLocales = {
     },
     ["Place the meat"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Platziere das Fleisch",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -868,7 +868,7 @@ local classicObjectiveLocales = {
     },
     ["Apply the pheromones"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Bringe die Pheromone aus",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -880,7 +880,7 @@ local classicObjectiveLocales = {
     },
     ["Release the Servant"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Befreie den Diener",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -904,7 +904,7 @@ local classicObjectiveLocales = {
     },
     ["Summon Kirtonos"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Beschwöre Kirtonos",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,

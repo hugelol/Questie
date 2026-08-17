@@ -652,7 +652,7 @@ local mopObjectiveLocales = {
     },
     ["After quest is complete, select 3rd option"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Nachdem die Quest vollständig ist, wähle die dritte Option",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -664,7 +664,7 @@ local mopObjectiveLocales = {
     },
     ["Pink Turnip - 2nd option"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Pinke Rübe - zweite Option",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -676,7 +676,7 @@ local mopObjectiveLocales = {
     },
     ["Watermelon - 1st option"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Wassermelone - erste Option",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -688,7 +688,7 @@ local mopObjectiveLocales = {
     },
     ["Tofu - 3rd option"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Tofu - dritte Option",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -796,7 +796,7 @@ local mopObjectiveLocales = {
     },
     ["Borrow a kite"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Leih dir einen Drachen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -808,7 +808,7 @@ local mopObjectiveLocales = {
     },
     ["Return the hatchlings to the nests"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Bringe die Jungtiere zurück zum Nest",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -820,7 +820,7 @@ local mopObjectiveLocales = {
     },
     ["Kill the eyes"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Töte die Augen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -856,7 +856,7 @@ local mopObjectiveLocales = {
     },
     ["Fish for Dojani Eel"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fische nach dem Dojani Aal",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -868,7 +868,7 @@ local mopObjectiveLocales = {
     },
     ["Fish for Wolf Piranha"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fische nach dem Wolfpiranha",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -880,7 +880,7 @@ local mopObjectiveLocales = {
     },
     ["Attack it to drop the Stolen Mistfall Keg"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Greife es an um Gestohlenes Fass von Nebelhauch zu erhalten",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -892,7 +892,7 @@ local mopObjectiveLocales = {
     },
     ["Use the raft"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Nutze das Floß",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -904,7 +904,7 @@ local mopObjectiveLocales = {
     },
     ["Take a ride to the Temple of the Jade Serpent"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Nimm die Fahrt zum Tempel der Jadeschlange",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -916,7 +916,7 @@ local mopObjectiveLocales = {
     },
     ["Bring the yaks here"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Bringe die Yaks hier her",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -940,7 +940,7 @@ local mopObjectiveLocales = {
     },
     ["Clear the rocks"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Beseitige die Steine",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -952,7 +952,7 @@ local mopObjectiveLocales = {
     },
     ["Use the crystal"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Benutze die Kristalle",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -964,7 +964,7 @@ local mopObjectiveLocales = {
     },
     ["Use the Amber Tap"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Benutze die Bernhülle",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -976,7 +976,7 @@ local mopObjectiveLocales = {
     },
     ["Start the fight"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Beginne den Kampf",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -988,7 +988,7 @@ local mopObjectiveLocales = {
     },
     ["Talk to Ban"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Sprich mit Ban",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1000,7 +1000,7 @@ local mopObjectiveLocales = {
     },
     ["Grab another torch"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Schnapp dir eine andere Fackel",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1012,7 +1012,7 @@ local mopObjectiveLocales = {
     },
     ["Bring the Motherseeds here"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Bringe die Muttersaat hier her",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1024,7 +1024,7 @@ local mopObjectiveLocales = {
     },
     ["Blow up the explosives"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Zünde die Sprengladungen",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1036,7 +1036,7 @@ local mopObjectiveLocales = {
     },
     ["Take a ride to Dawn's Blossom"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Nimm die Fahrt nach Morgebnlüte",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1048,7 +1048,7 @@ local mopObjectiveLocales = {
     },
     ["Grab the drinks"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Schnapp dir die Getränke",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1060,7 +1060,7 @@ local mopObjectiveLocales = {
     },
     ["Kill them near stone blocks"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Tötet sie nahe der Steinblöcke",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1072,7 +1072,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to Fire Camp Bataar"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zum Streitlager Bataar",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1084,7 +1084,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to the Shrine"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zum Schrein",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1096,7 +1096,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to Mogujia"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege nach Mogujia",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1108,7 +1108,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to Binan Village"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zum Binan-Dorf",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1120,7 +1120,7 @@ local mopObjectiveLocales = {
     },
     ["Kill the ones near Blood Elves in fire pillars"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Töte diese in nähe der Blutelfen in den Feuersäulen ",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1132,7 +1132,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to the Grummle Bazaar"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zum Grummle Basaar",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1144,7 +1144,7 @@ local mopObjectiveLocales = {
     },
     ["Deactivate Spirit Wall"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Deaktiviere die Geisterwände",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1156,7 +1156,7 @@ local mopObjectiveLocales = {
     },
     ["Fish in the Mysterious Whirlpool"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Angle im mysteriösen Whirlpool",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1168,7 +1168,7 @@ local mopObjectiveLocales = {
     },
     ["Use the crane egg and fish in the yolk"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Nutze das Kranichei und fische im Dotter",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1180,7 +1180,7 @@ local mopObjectiveLocales = {
     },
     ["Use Ken-Ken's Mask on Ik'thik Wing Commander"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Benutze Ken-Ken's Maske am Schwadronskommandant der Ik'thik",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1192,7 +1192,7 @@ local mopObjectiveLocales = {
     },
     ["Release Ancestors"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Befreie die Vorfahren",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1204,7 +1204,7 @@ local mopObjectiveLocales = {
     },
     ["Talk to Kaz'tik"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Sprich mit Kaz'tik",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1216,7 +1216,7 @@ local mopObjectiveLocales = {
     },
     ["Learn to make Sliced Peaches"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Lerne wie man Pfirsich in Scheiben zubreitet",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1228,7 +1228,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to the Valley of Emperors"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zum Tal der Kaiser",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1240,7 +1240,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to the Ruins of Korune"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zu den Ruinen von Korune",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1252,7 +1252,7 @@ local mopObjectiveLocales = {
     },
     ["Open the amber"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Öffne das Bern",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1264,7 +1264,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to Emperor's Reach"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zur Kaiserhöhe",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1276,7 +1276,7 @@ local mopObjectiveLocales = {
     },
     ["Fly to Garrosh'ar Advance"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Fliege zum Garrosh'arvorstoß",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1312,7 +1312,7 @@ local mopObjectiveLocales = {
     },
     ["Kill the Shan'ze Thundercallers"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Töte die Donnerrufer der Shan'ze",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1324,7 +1324,7 @@ local mopObjectiveLocales = {
     },
     ["Summon Gura"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Beschwöre Gura",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1336,7 +1336,7 @@ local mopObjectiveLocales = {
     },
     ["Disrupt the Ancient Stone Conqueror ritual"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Störe das Ritual des uralten Steineroberers",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1372,7 +1372,7 @@ local mopObjectiveLocales = {
     },
     ["Use the controller"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Benutze die Fernbedienung",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
@@ -1384,7 +1384,7 @@ local mopObjectiveLocales = {
     },
     ["Bring the sacks here"] = {
         ["enUS"] = true,
-        ["deDE"] = false,
+        ["deDE"] = "Bring die Säcke her",
         ["esES"] = false,
         ["esMX"] = false,
         ["frFR"] = false,
